@@ -1,16 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ufthaq.ufthaq" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ukhem+Fahmi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+You!+🤖;+I'm+Ukhem+Fahmi+Thoriqul+Haq!;Electrical+Engineer;" />
 </h1>
 
 <h3 align="center">Young Engineer from Indonesia  🇮🇩</h3>
 
 <div align="center">
  
- 🎻🤖 I make **SapeBot**
+ 🎻🤖 I make **SapeBot [click here]**
  
- 🌱 I’m currently learning **C++**
+ 🌱 I’m currently learning **C++ & MIDI. Trying to Build Next Gen Software for SapeBot**
 
  </div>
 
@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/ukhemfahmi-t-h/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.instagram.com/ukhemfahmi/" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
   <a href="" target="_blank">
@@ -29,7 +29,7 @@
   </a>
 </div>
 
-<h2 align="center">⚒️ Tools ⚒️</h2>
+<h2 align="center">⚒️ Language & Tools ⚒️</h2>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,arduino,vscode,visualstudio,github" />
