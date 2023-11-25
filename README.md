@@ -4,11 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+You!+🤖;+I'm+Ukhem+Fahmi+Thoriqul+Haq!;Electrical+Engineer;" />
 </h1>
 
-<h3 align="center">Young Engineer from Indonesia  🇮🇩</h3>
+<h3 align="center">Young Engineer from Indonesia 🇮🇩</h3>
 
 <div align="center">
  
- 🎻🤖 I make **SapeBot [click here]**
+ 🎻🤖 I make **SapeBot. Click to see video of 
+ <a href="https://drive.google.com/file/d/15NnL1mws2g4WRLW3ysu0oS-LEOrh3-r3/view?usp=sharing">
+ [SapeBot]
+  </a>**
  
  🌱 I’m currently learning **C++ & MIDI. Trying to Build Next Gen Software for SapeBot**
 
@@ -24,9 +27,9 @@
   <a href="https://www.instagram.com/ukhemfahmi/">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="">
+<!--   <a href="">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
-  </a>
+  </a> -->
 </div>
 
 <h2 align="center">🛠️ Language & Tools 🧰</h2>
