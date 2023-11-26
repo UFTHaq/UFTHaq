@@ -13,13 +13,12 @@
  [SapeBot]
   </a>**
   
+  🌱 I’m currently learning **C++ & MIDI. Trying to Build Next Gen Software for SapeBot**
+  
   <div align="center">
       <img src="https://github.com/UFTHaq/SapeBot/assets/104829519/663099a8-c951-4a07-8335-760d1c9fb355" width=540/>
   </div>
- 
- 🌱 I’m currently learning **C++ & MIDI. Trying to Build Next Gen Software for SapeBot**
-
- </div>
+</div>
 
  <div align="center"> 
   <a href="mailto:ukhemfahmi17@gmail.com">
