@@ -7,6 +7,10 @@
 <h3 align="center">Young Engineer from Indonesia 🇮🇩</h3>
 
 <div align="center">
+
+  <div align="center">
+      <img src="https://github.com/UFTHaq/SapeBot/assets/104829519/663099a8-c951-4a07-8335-760d1c9fb355" width=540/>
+  </div>
  
  🎻🤖 I make **SapeBot. Click to see video of 
  <a href="https://drive.google.com/file/d/15NnL1mws2g4WRLW3ysu0oS-LEOrh3-r3/view?usp=sharing">
@@ -15,9 +19,6 @@
   
   🌱 I’m currently learning **C++ & MIDI. Trying to Build Next Gen Software for SapeBot**
   
-  <div align="center">
-      <img src="https://github.com/UFTHaq/SapeBot/assets/104829519/663099a8-c951-4a07-8335-760d1c9fb355" width=540/>
-  </div>
 </div>
 
  <div align="center"> 
