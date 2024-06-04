@@ -39,7 +39,7 @@
 <h2 align="center">🛠️ Language & Tools 🧰</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,arduino,vscode,visualstudio,github" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,python,pycharm,vscode,visualstudio,github" />&nbsp;
   <img src="https://github.com/UFTHaq/UFTHaq/assets/104829519/98fabccc-23a6-43ad-86d9-f9a9e5c925ae" height=48 />&nbsp;
   <img src="https://github.com/UFTHaq/UFTHaq/assets/104829519/a70f4450-94bc-44fe-a30e-79f18f57c709" height=48 />
     <br>
