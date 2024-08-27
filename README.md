@@ -17,7 +17,7 @@
  [SapeBot]
   </a>**
   
-  🌱 I’m currently learning **C++ & MIDI. Trying to Build Next Gen Software for SapeBot**
+<!-- 🌱 I’m currently learning **C++ & MIDI. Trying to Build Next Gen Software for SapeBot** -->
   
 </div>
 
